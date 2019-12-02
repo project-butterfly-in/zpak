@@ -1,0 +1,3 @@
+[submodule "lib/zpackage"]
+	path = lib/zpackage
+	url = https://github.com/predatorx7/zpackage.git
