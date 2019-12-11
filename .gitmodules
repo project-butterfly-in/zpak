@@ -1,3 +1,6 @@
 [submodule "lib/zpackage"]
 	path = lib/zpackage
 	url = https://github.com/predatorx7/zpackage.git
+[submodule "src/main/python/package/download-manager"]
+	path = src/main/python/package/download-manager
+	url = https://github.com/Rahul-Chaudhary-2301/Python-Downloader.git
