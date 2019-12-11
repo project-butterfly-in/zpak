@@ -15,6 +15,7 @@
 ### Python
 
 - Use Python 3.7 or above for python scripts
+- Please check this style guide to let others understand: https://legacy.python.org/dev/peps/pep-0008/
 
 ### C++
 
