@@ -4,3 +4,9 @@
 [submodule "src/main/python/package/download-manager"]
 	path = src/main/python/package/download-manager
 	url = https://github.com/Rahul-Chaudhary-2301/Python-Downloader.git
+[submodule "lib/bubblewrap"]
+	path = lib/bubblewrap
+	url = https://github.com/containers/bubblewrap.git
+[submodule "lib/zpacker"]
+	path = lib/zpacker
+	url = https://github.com/project-butterfly-in/zap-package.git
