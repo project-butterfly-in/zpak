@@ -1,0 +1,7 @@
+name: controldb
+description: Perform database operations using hive
+version: 0.0.1
+author: Project Butterfly
+
+dependencies:
+  hive: ^1.1.1
